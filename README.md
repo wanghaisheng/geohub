@@ -1,3 +1,5 @@
+2024-12-06
+
 <!-- markdownlint-disable-next-line -->
 <p align="center">
   <a href="https://www.geohub.gg"><img src="public/og-image.png" alt="GeoHub logo"></a>
